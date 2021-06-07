@@ -1,0 +1,7 @@
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\bin\Debug\Class and objects.exe.config
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\bin\Debug\Class and objects.exe
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\bin\Debug\Class and objects.pdb
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\obj\Debug\Class and objects.csprojAssemblyReference.cache
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\obj\Debug\Class and objects.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\obj\Debug\Class and objects.exe
+C:\Users\Suraj\source\repos\Class and objects\Class and objects\obj\Debug\Class and objects.pdb
